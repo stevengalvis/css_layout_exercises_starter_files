@@ -1,9 +1,34 @@
+
+body{
+    padding: 30px;
+}
+.container{
+    height: 500px;
+    width: 800px;
+    text-align: center;
+}
+
+.container-3 {
+    display: inline-block;
+    width: 33.33%;
+    height: 300px;
+}
+
+.container-2 {
+    display: inline-block;
+    height: 200px;
+    width: 50%;
+    font-size: 0;
+}
+
 .inner-one {
     background-color: green;
+
 }
 
 .inner-two {
     background-color: blue;
+
 }
 
 .inner-three {
