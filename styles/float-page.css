@@ -2,11 +2,31 @@ body {
   background-color: black;
   color: white;
 }
+.left{
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+}
 
+.paragraph-1{
+    clear:left;
+}
 main {
   padding-left: 90px;
   padding-right: 90px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.right{
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+}
+
+.paragraph-2{
+    clear: left;
 }
