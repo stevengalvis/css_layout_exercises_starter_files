@@ -6,7 +6,7 @@
 }
 
 html {
-  background: url(images/"outerspace_landscape.jpeg") no-repeat center center fixed; 
+  background: url(images/"outerspace_landscape.jpeg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -47,9 +47,7 @@ li {
     border-radius: 50%;
 
 }
-.positioning{
-    position: relative;
-}
+
 
 .green-box {
 
@@ -65,6 +63,7 @@ li {
 }
 
 .space-cat{
+    position: relative;
     height: 200px;
     right: 110px;
     bottom: 120px;
@@ -72,6 +71,7 @@ li {
 }
 
 .space-dog{
+    position: relative;
     top: 200px;
     height: 200px;
     width: 200px;
